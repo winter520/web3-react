@@ -53,5 +53,18 @@
     "semi": false,
     "singleQuote": true,
     "printWidth": 120
+  },
+  "dependencies": {
+    "@ethersproject/bytes": "^5.4.0",
+    "@ethersproject/keccak256": "^5.4.0",
+    "@portis/web3": "^4.0.5",
+    "@types/web3-provider-engine": "^14.0.1",
+    "@walletconnect/types": "^1.6.0",
+    "@web3-react/abstract-connector": "^6.0.7",
+    "@web3-react/types": "^6.0.7",
+    "magic-sdk": "^4.4.1",
+    "tiny-invariant": "^1.1.0",
+    "tiny-warning": "^1.0.3",
+    "web3-provider-engine": "^16.0.3"
   }
 }
